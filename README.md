@@ -30,3 +30,8 @@ Description of the files and what they do:
 		This is the main script. Soon will be renamed to ffwatch. If you intend
 		to use this, please open and modify this script. At the top you will see
 		variables for the watch folder and other settings.
+
+
+How to run this script and make it run on login/boot.
+
+	To make this script run you will need to modify the permissions so it is an executable.
