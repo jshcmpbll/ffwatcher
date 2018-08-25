@@ -5,7 +5,8 @@ Description of the files and what they do:
 
 	MP4.sh
 
-		This is a script that is called for in the main script {watch.sh}. It handles any of the ffmpeg parameters and also deals with file naming.
+		This is a script that is called for in the main script {watch.sh}.
+		It handles any of the ffmpeg parameters and also deals with file naming.
 
 	NewFiles
 
@@ -13,7 +14,8 @@ Description of the files and what they do:
 
 	current
 
-		This document is populated with all the files in the current directory on each run of ffwatch.
+		This document is populated with all the files in the current directory
+		on each run of ffwatch.
 
 	delete
 
@@ -25,4 +27,6 @@ Description of the files and what they do:
 
 	watch.sh
 
-		This is the main script. Soon will be renamed to ffwatch. If you intend to use this, please open and modify this script. At the top you will see variables for the watch folder and other settings.
+		This is the main script. Soon will be renamed to ffwatch. If you intend
+		to use this, please open and modify this script. At the top you will see
+		variables for the watch folder and other settings.
